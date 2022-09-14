@@ -1,6 +1,6 @@
 # Python CLI  structure
 
-## Why?
+## Basic Description
 
 This repo serves as a good reference point for a simple and basic CLI
 structure. As of now it jsut gets arguments from the commandline, but everything
